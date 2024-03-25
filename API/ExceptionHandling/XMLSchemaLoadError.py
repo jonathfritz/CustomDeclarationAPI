@@ -1,0 +1,3 @@
+class XMLSchemaLoadError(Exception):
+    pass
+

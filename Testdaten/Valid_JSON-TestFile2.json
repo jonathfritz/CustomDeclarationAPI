@@ -1,0 +1,60 @@
+{
+  "ProcedureType": "EXP",
+  "Declaration reference number": "12345678901234567890",
+  "Date of declaration": {
+    "Date Time Content": "2023-04-01T00:00:00Z",
+    "DateTypeCode": "101"
+  },
+  "ImporterOrExporter": {
+    "Identifier": "94949842",
+    "Address": {
+      "Name": "Hans Doe",
+      "Street": "Frankfurter Allee",
+      "City": "Berlin",
+      "Postcode": "123336",
+      "Country": "DE"
+    },
+    "Communication": {
+      "Mail": "hans.doe@google.com",
+      "Fax": "434-555-7890",
+      "Telephone": "123-456-7890"
+    }
+  },
+  "ConsigneeOrConsignor": {
+    "Identifier": "0987654321",
+    "Address": {
+      "Name": "Jane Simpson",
+      "Street": "456 Elm St",
+      "City": "Othertown",
+      "Postcode": "654321",
+      "Country": "FR"
+    },
+    "Communication": {
+      "Mail": "jane.simpson@gmx.com",
+      "Fax": "098-765-4321",
+      "Telephone": "098-765-4321"
+    }
+  },
+  "CustomOffice": {
+    "CustomOfficeID": "1234567890"
+  },
+  "Transport Information": {
+    "CarrierID": "12345678901234567890",
+    "TransportModeType": "1",
+    "Country of origin": "DE",
+    "Country Destination": "FR"
+  },
+  "Goods Information": {
+    "Goods Origin Location": "DE",
+    "Description of Goods": "Electronics",
+    "Additional Information": "Dangerous Goods, please be carefule with the transport",
+    "Value of Goods": {
+      "Value": 10000,
+      "Currency": "EUR"
+    },
+    "Amount of Goods": {
+      "Value": 10,
+      "MeasurementType": "A11"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+<px:CustomDeclaration xmlns:px="urn:">
+<ProcedureType>DFE</ProcedureType>
+<DeclarationReferenceNumber>XXXXXXXXXXXXXXXXXXXX</DeclarationReferenceNumber>
+<DateOfDeclaration>
+<DateTimeContent>XXXXXXXXXXXXXXXXXXXX</DateTimeContent>
+<DateTypeCode>2</DateTypeCode>
+</DateOfDeclaration>
+<ImporterExporter>
+<Identifier>XXXXXXXXXX</Identifier>
+<Address>
+<Name>Carlo Rodrigez</Name>
+<Street>Atlanta Street 32</Street>
+<City>Memphis</City>
+<Postcode>XXXXXXXXXXXX</Postcode>
+<Country>DE</Country>
+</Address>
+<Communication>
+<Mail>examplmail@yahoo.de</Mail>
+</Communication>
+</ImporterExporter>
+<ConsigneeConsignor>
+<Identifier>XXXXXXXXXX</Identifier>
+<Address>
+<Name>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</Name>
+<Street>XXXXXXXXXXXXXXXXXXXX</Street>
+<City>XXXXXXXXXXXXXXXXXXXX</City>
+<Postcode>XXXXXXXXXXXX</Postcode>
+<Country>DE</Country>
+</Address>
+<Communication>
+<Mail>XXXXXXXXXX</Mail>
+</Communication>
+</ConsigneeConsignor>
+<CustomOffice>
+<CustomOfficeID>34309h</CustomOfficeID>
+</CustomOffice>
+<TransportInformation>
+<CarrierID>XXXXXXXXXXXXXXXXXXXX</CarrierID>
+<TransportModeType>1</TransportModeType>
+<CountryOfOrigin>DE</CountryOfOrigin>
+<CountryDestination>IN</CountryDestination>
+</TransportInformation>
+<GoodsInformation>
+<GoodsOriginLocation>ADALV</GoodsOriginLocation>
+<DescriptionOfGoods>XXXXXXXXXX</DescriptionOfGoods>
+<AdditionalInformation>XXXXXXXXXX</AdditionalInformation>
+<ValueOfGoods Value="23" Currency="EUR"/>
+<AmountOfGoods>
+<Value>23</Value>
+<MeasurementType>10</MeasurementType>
+</AmountOfGoods>
+</GoodsInformation>
+</px:CustomDeclaration>
